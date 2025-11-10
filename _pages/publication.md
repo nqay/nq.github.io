@@ -8,7 +8,7 @@ These works provide an overview of my research.
 
 ## Published Work
 
-* Schneider, K.R., Fanzo, J., Haddad, L.,...<u>Qayyum, N.*</u>, et. al., **The state of food systems worldwide in the countdown to 2030**. (2023). <i> Nature Food</i>, 4, 1090–1110. <a href="https://doi.org/10.1038/s43016-023-00885-9"> [Paper]</a> 
+* Schneider, K.R., Fanzo, J., Haddad, L.,... <u>Qayyum, N.*</u>, et. al., **The state of food systems worldwide in the countdown to 2030**. (2023). <i> Nature Food</i>, 4, 1090–1110. <a href="https://doi.org/10.1038/s43016-023-00885-9"> [Paper]</a> 
 
 * <u>Zheng, Y.</u>, Wang, S.*, Liu, L., Aloisi, J. & Zhao, J. (2024). **Impacts of remote work on vehicle miles traveled and transit ridership in the United States**. <i> Nature Cities</i>, 1, 346–358. <a href="https://doi.org/10.1038/s44284-024-00057-1"> [Paper]</a> <a href="https://news.mit.edu/2024/has-remote-work-changed-how-people-travel-0409"> [MIT News]</a>
 
